@@ -1,26 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Pradeep Yadav
+# Pradeep Yadav
 
-### Full Stack Developer | Python Developer | Backend Engineer
+Full Stack Developer • Python Developer • Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;Backend+Engineer;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter\&weight=500\&size=20\&duration=3500\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;Backend+Engineer;Python+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-💻 Passionate Full Stack Developer with experience in building modern web applications, scalable backend systems, secure authentication flows, and RESTful APIs.
+I am a Full Stack Developer with a strong focus on backend development, API design, authentication systems, and database-driven applications.
 
-🌱 Currently improving my expertise in Backend Development, System Design, Cloud Technologies, and Software Engineering.
-
-🎯 Focused on writing clean, maintainable, and efficient code.
+My primary interest lies in building scalable web applications, designing maintainable backend architectures, and continuously improving my software engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -28,26 +26,26 @@
 <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database & ORM
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://cdn.simpleicons.org/prisma" width="48" height="48" />
 </p>
 
-### Version Control & Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -55,146 +53,70 @@
 
 ---
 
-## 🧠 Core Skills
+## Technical Skills
 
-* Python Programming
-* Object Oriented Programming (OOP)
-* Python Advanced Concepts
-* Data Structures & Algorithms
-* Full Stack Web Development
+### Python
+
+* Object-Oriented Programming
+* Exception Handling
+* Modules and Packages
+* Iterators and Generators
+* Decorators
+* File Handling
+
+### Data Structures & Algorithms
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks
+* Queues
+* Recursion
+* Searching Algorithms
+* Sorting Algorithms
+
+### Backend Development
+
 * REST API Development
 * Authentication & Authorization
-* OAuth Integration
-* API Validation
-* Database Design
+* OAuth 2.0
+* Validation
+* Middleware
+* Error Handling
+* Database Integration
+
+### Database
+
 * PostgreSQL
+* SQL
 * Prisma ORM
-* Git & GitHub Workflow
-* Responsive Web Design
 
 ---
 
-## ⚡ Backend Expertise
+## Current Focus
 
-### Authentication & Security
-
-✔ JWT Authentication
-
-✔ Session Authentication
-
-✔ OAuth 2.0
-
-✔ Password Hashing
-
-✔ Route Protection
-
-✔ Role Based Access Control
-
----
-
-### API Development
-
-✔ REST APIs
-
-✔ CRUD Operations
-
-✔ Middleware
-
-✔ Error Handling
-
-✔ Validation
-
-✔ API Security
-
-✔ Database Integration
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-* Full Stack Development
 * Backend Engineering
+* Full Stack Development
 * API Architecture
-* Database Optimization
 * PostgreSQL
 * System Design
 * Cloud Fundamentals
-* Software Development Best Practices
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Statistics
 
-<p>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 💭 Developer Mindset
+## Connect
 
-> Building scalable solutions, writing clean code, and continuously learning to become a better engineer every day.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
-</div>
+<p>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+</p>
