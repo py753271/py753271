@@ -116,7 +116,7 @@ My primary interest lies in building scalable web applications, designing mainta
 ## Connect
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://github.com/py753271">GitHub</a> •
+<a href="https://linkedin.com/in/pradeep-yadav-059b11265/">LinkedIn</a> •
+<a href="mailto:py753271@gmail.com">Email</a>
 </p>
