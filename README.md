@@ -72,8 +72,7 @@ My primary interest lies in building scalable web applications, designing mainta
 * Stacks
 * Queues
 * Recursion
-* Searching Algorithms
-* Sorting Algorithms
+
 
 ### Backend Development
 
